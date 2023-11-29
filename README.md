@@ -10,3 +10,7 @@ A timeseries of ice velocity was extracted across Jakobshavn Isbrae using NASAâ€
 
 ## Surface Runoff
 The 'surface_runoff' script uses Version 5 of the 'Streams, Outlets, Basins, and Discharge [k=1.0]' dataset (Mankoff et al., 2020) provided on the GEUS dataverse (https://doi.org/10.22008/FK2/XKQVL7). It should be noted that as Jakobshavn Isbrae is a marine-terminating glacier, only the 'ice' datasets are downloaded (the 'land' files are not needed). The script uses both MAR and RACMO data, plotting graphs of daily discharge and annual cumulative discharge across the primary hydrological basin of Jakobshavn Isbrae between 2018 and 2023. 
+
+## Ice Discharge 
+
+## Rigid MÃ©lange Extent 
