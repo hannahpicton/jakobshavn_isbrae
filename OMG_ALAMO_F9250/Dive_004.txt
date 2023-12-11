@@ -1,0 +1,787 @@
+=============
+Float 9250 (Alamo/Alto)
+-------------
+Float 9250, Dive 4
+Product ID STANDARD
+Software Version 8.0.5
+Trajectory
+GPS fixes:
+fix kind:  DiveStart
+fix time:  2021-04-23 21:50:00 UTC
+latitude:  69.0489372
+longitude: -51.7606494
+ttf:       0
+nsat:      10
+min snr:   32
+mean snr:  40
+max snr:   46
+hdop:      1
+
+fix kind:  DiveEnd
+fix time:  2021-04-24 06:42:00 UTC
+latitude:  69.0461087
+longitude: -51.7688878
+ttf:       30
+nsat:      8
+min snr:   0
+mean snr:  34
+max snr:   45
+hdop:      1.2
+
+Fall/Rise series:
+╔════════════╤═════════════════╤═══════════════╗
+║       time │ pressure (dBar) │          code ║
+╟────────────┼─────────────────┼───────────────╢
+║ 1619214617 │          0.0400 │ descent start ║
+║ 1619215020 │         10.0800 │       descent ║
+║ 1619215111 │         20.0400 │       descent ║
+║ 1619215204 │         30.1200 │       descent ║
+║ 1619215295 │         40.0800 │       descent ║
+║ 1619215386 │         50.0800 │       descent ║
+║ 1619215389 │         50.4000 │  descent pump ║
+║ 1619215539 │         60.0400 │       descent ║
+║ 1619215744 │         70.0000 │       descent ║
+║ 1619215966 │         80.0000 │       descent ║
+║ 1619216204 │         90.0000 │       descent ║
+║ 1619216430 │        100.0400 │       descent ║
+║ 1619216659 │        110.0400 │       descent ║
+║ 1619217035 │        120.0000 │       descent ║
+║ 1619217415 │        130.0400 │       descent ║
+║ 1619217698 │        140.0400 │       descent ║
+║ 1619218298 │        149.7600 │       descent ║
+║ 1619218898 │        157.4000 │       descent ║
+║ 1619219498 │        161.8400 │       descent ║
+║ 1619220098 │        165.2400 │       descent ║
+║ 1619220698 │        168.4000 │       descent ║
+║ 1619221298 │        166.6400 │       descent ║
+║ 1619221898 │        168.1200 │       descent ║
+║ 1619222498 │        166.0000 │       descent ║
+║ 1619223098 │        166.1200 │       descent ║
+║ 1619223698 │        166.5200 │       descent ║
+║ 1619224298 │        165.7200 │       descent ║
+║ 1619224898 │        164.1200 │       descent ║
+║ 1619225498 │        165.4400 │       descent ║
+║ 1619226098 │        167.0400 │       descent ║
+║ 1619226260 │        167.6000 │  descent seek ║
+║ 1619226653 │        177.0000 │       descent ║
+║ 1619227124 │        187.0400 │       descent ║
+║ 1619227534 │        197.0000 │       descent ║
+║ 1619227987 │        207.0000 │       descent ║
+║ 1619228587 │        215.2000 │       descent ║
+║ 1619229187 │        218.4800 │       descent ║
+║ 1619229787 │        221.0000 │       descent ║
+║ 1619230204 │        222.6800 │  descent seek ║
+║ 1619230545 │        230.0400 │       descent ║
+║ 1619231111 │        240.0000 │       descent ║
+║ 1619231636 │        250.0000 │       descent ║
+║ 1619232228 │        260.0000 │       descent ║
+║ 1619232828 │        267.7600 │       descent ║
+║ 1619233428 │        274.9200 │       descent ║
+║ 1619234028 │        281.0000 │       descent ║
+║ 1619234145 │        281.6800 │  descent seek ║
+║ 1619234628 │        283.9600 │       descent ║
+║ 1619235228 │        284.1200 │       descent ║
+║ 1619235828 │        280.9600 │       descent ║
+║ 1619236428 │        281.9200 │       descent ║
+║ 1619237028 │        285.8400 │       descent ║
+║ 1619237628 │        288.8800 │       descent ║
+║ 1619238228 │        288.4400 │       descent ║
+║ 1619238828 │        285.8000 │       descent ║
+║ 1619239428 │        284.0800 │       descent ║
+║ 1619240028 │        283.8000 │       descent ║
+║ 1619240628 │        287.1200 │       descent ║
+║ 1619241228 │        286.2400 │       descent ║
+║ 1619241377 │        285.8000 │       descent ║
+║ 1619244980 │        287.1200 │  ascent start ║
+║ 1619245091 │        277.9600 │        ascent ║
+║ 1619245178 │        267.8400 │        ascent ║
+║ 1619245250 │        257.9600 │        ascent ║
+║ 1619245321 │        247.8000 │        ascent ║
+║ 1619245384 │        237.7600 │        ascent ║
+║ 1619245446 │        227.8400 │        ascent ║
+║ 1619245505 │        217.8400 │        ascent ║
+║ 1619245561 │        207.7600 │        ascent ║
+║ 1619245618 │        197.6800 │        ascent ║
+║ 1619245669 │        187.9200 │        ascent ║
+║ 1619245720 │        177.8400 │        ascent ║
+║ 1619245771 │        167.8800 │        ascent ║
+║ 1619245819 │        157.9200 │        ascent ║
+║ 1619245865 │        147.9600 │        ascent ║
+║ 1619245912 │        137.6800 │        ascent ║
+║ 1619245958 │        127.9200 │        ascent ║
+║ 1619246004 │        118.0000 │        ascent ║
+║ 1619246048 │        107.7600 │        ascent ║
+║ 1619246093 │         97.9200 │        ascent ║
+║ 1619246138 │         87.7600 │        ascent ║
+║ 1619246183 │         77.9600 │        ascent ║
+║ 1619246229 │         67.7200 │        ascent ║
+║ 1619246273 │         57.7600 │        ascent ║
+║ 1619246316 │         47.6000 │        ascent ║
+║ 1619246356 │         37.8000 │        ascent ║
+║ 1619246397 │         28.0000 │        ascent ║
+║ 1619246440 │         17.8800 │        ascent ║
+║ 1619246482 │          7.7200 │        ascent ║
+║ 1619246508 │          1.4000 │    ascent end ║
+╚════════════╧═════════════════╧═══════════════╝
+
+Science
+science data
+descending: binned:
+<empty>
+
+unbinned:
+<empty>
+
+discrete:
+<empty>
+
+
+park/drift: discrete
+╔═════════════════╤════════════════════╤════════════════╤════════════════╗
+║ pressure (dBar) │ temperature (degC) │ salinity (psu) │ time (seconds) ║
+╟─────────────────┼────────────────────┼────────────────┼────────────────╢
+║        286.6400 │             2.6020 │        34.1770 │           1201 ║
+╚═════════════════╧════════════════════╧════════════════╧════════════════╝
+
+
+ascending: binned:
+╔═════════════════╤════════════════════╤════════════════╤══════════════╗
+║ pressure (dBar) │ temperature (degC) │ salinity (psu) │ tcond (degC) ║
+╟─────────────────┼────────────────────┼────────────────┼──────────────╢
+║        287.0800 │             2.6070 │        34.1770 │       2.6170 ║
+║        286.6000 │             2.6050 │        34.1800 │       2.5720 ║
+║        285.5200 │             2.6020 │        34.1790 │       2.5910 ║
+║        284.5200 │             2.6000 │        34.1790 │       2.5170 ║
+║        283.4800 │             2.6000 │        34.1790 │       2.5460 ║
+║        282.5200 │             2.6000 │        34.1790 │       2.5680 ║
+║        281.5600 │             2.6000 │        34.1780 │       2.6100 ║
+║        280.4800 │             2.5990 │        34.1790 │       2.5660 ║
+║        279.4800 │             2.5990 │        34.1780 │       2.6320 ║
+║        278.4800 │             2.5980 │        34.1780 │       2.5020 ║
+║        277.5200 │             2.5950 │        34.1770 │       2.5770 ║
+║        276.4800 │             2.5950 │        34.1780 │       2.5880 ║
+║        275.4400 │             2.5940 │        34.1780 │       2.6260 ║
+║        274.4400 │             2.5900 │        34.1770 │       2.5850 ║
+║        273.4800 │             2.5890 │        34.1760 │       2.5990 ║
+║        272.4800 │             2.5870 │        34.1750 │       2.5560 ║
+║        271.4800 │             2.5850 │        34.1740 │       2.5770 ║
+║        270.4800 │             2.5820 │        34.1730 │       2.5900 ║
+║        269.5200 │             2.5810 │        34.1730 │       2.6150 ║
+║        268.5200 │             2.5800 │        34.1720 │       2.5800 ║
+║        267.5200 │             2.5800 │        34.1720 │       2.7040 ║
+║        266.5200 │             2.5800 │        34.1730 │       2.6540 ║
+║        265.5200 │             2.5790 │        34.1720 │       2.6350 ║
+║        264.5600 │             2.5780 │        34.1720 │       2.6470 ║
+║        263.5200 │             2.5790 │        34.1720 │       2.5990 ║
+║        262.4800 │             2.5790 │        34.1710 │       2.6600 ║
+║        261.4800 │             2.5780 │        34.1720 │       2.5970 ║
+║        260.5200 │             2.5790 │        34.1710 │       2.6470 ║
+║        259.5200 │             2.5790 │        34.1710 │       2.5910 ║
+║        258.5200 │             2.5780 │        34.1720 │       2.6410 ║
+║        257.4800 │             2.5780 │        34.1720 │       2.6150 ║
+║        256.4400 │             2.5770 │        34.1720 │       2.6030 ║
+║        255.4800 │             2.5750 │        34.1720 │       2.6760 ║
+║        254.5600 │             2.5750 │        34.1700 │       2.5840 ║
+║        253.5600 │             2.5730 │        34.1700 │       2.5720 ║
+║        252.5600 │             2.5710 │        34.1690 │       2.5840 ║
+║        251.5200 │             2.5670 │        34.1670 │       2.6040 ║
+║        250.4400 │             2.5660 │        34.1680 │       2.6160 ║
+║        249.4800 │             2.5640 │        34.1660 │       2.5030 ║
+║        248.4800 │             2.5600 │        34.1660 │       2.6220 ║
+║        247.4800 │             2.5580 │        34.1660 │       2.5280 ║
+║        246.4800 │             2.5580 │        34.1660 │       2.6020 ║
+║        245.4800 │             2.5570 │        34.1650 │       2.5970 ║
+║        244.4400 │             2.5520 │        34.1630 │       2.5580 ║
+║        243.4800 │             2.5470 │        34.1600 │       2.7410 ║
+║        242.5200 │             2.5450 │        34.1590 │       2.6320 ║
+║        241.5200 │             2.5420 │        34.1590 │       2.6320 ║
+║        240.5600 │             2.5400 │        34.1580 │       2.5440 ║
+║        239.4800 │             2.5340 │        34.1550 │       2.5970 ║
+║        238.4400 │             2.5250 │        34.1530 │       2.5800 ║
+║        237.4800 │             2.5180 │        34.1520 │       2.5210 ║
+║        236.4800 │             2.5180 │        34.1510 │       2.5950 ║
+║        235.4400 │             2.5140 │        34.1490 │       2.6600 ║
+║        234.4800 │             2.5050 │        34.1470 │       2.5660 ║
+║        233.5600 │             2.5010 │        34.1450 │       2.6680 ║
+║        232.4800 │             2.4960 │        34.1430 │       2.5840 ║
+║        231.4400 │             2.4930 │        34.1420 │       2.5950 ║
+║        230.4800 │             2.4910 │        34.1410 │       2.5800 ║
+║        229.5200 │             2.4770 │        34.1350 │       2.5440 ║
+║        228.5200 │             2.4650 │        34.1340 │       2.4550 ║
+║        227.4800 │             2.4660 │        34.1330 │       2.5720 ║
+║        226.4400 │             2.4630 │        34.1310 │       2.6390 ║
+║        225.5200 │             2.4610 │        34.1310 │       2.5580 ║
+║        224.4400 │             2.4570 │        34.1280 │       2.5530 ║
+║        223.4800 │             2.4490 │        34.1260 │       2.4860 ║
+║        222.4800 │             2.4310 │        34.1240 │       2.5470 ║
+║        221.4800 │             2.4240 │        34.1210 │       2.5920 ║
+║        220.5600 │             2.4120 │        34.1170 │       2.5440 ║
+║        219.4800 │             2.4040 │        34.1150 │       2.5660 ║
+║        218.5200 │             2.4000 │        34.1140 │       2.5130 ║
+║        217.5200 │             2.3980 │        34.1130 │       2.5140 ║
+║        216.4400 │             2.3930 │        34.1120 │       2.5950 ║
+║        215.4400 │             2.3930 │        34.1130 │       2.5480 ║
+║        214.5200 │             2.3900 │        34.1120 │       2.5210 ║
+║        213.5600 │             2.3870 │        34.1110 │       2.5290 ║
+║        212.4800 │             2.3800 │        34.1100 │       2.5140 ║
+║        211.4800 │             2.3720 │        34.1090 │       2.5210 ║
+║        210.4800 │             2.3580 │        34.1040 │       2.5140 ║
+║        209.4800 │             2.3520 │        34.1060 │       2.5130 ║
+║        208.5200 │             2.3420 │        34.1020 │       2.4630 ║
+║        207.5200 │             2.3290 │        34.0990 │       2.4420 ║
+║        206.5600 │             2.3180 │        34.0960 │       2.4040 ║
+║        205.4800 │             2.3150 │        34.0950 │       2.4850 ║
+║        204.4400 │             2.2930 │        34.0880 │       2.4690 ║
+║        203.4800 │             2.2800 │        34.0870 │       2.4920 ║
+║        202.4800 │             2.2760 │        34.0860 │       2.4240 ║
+║        201.4800 │             2.2720 │        34.0840 │       2.4330 ║
+║        200.4800 │             2.2640 │        34.0810 │       2.4160 ║
+║        199.5200 │             2.2590 │        34.0790 │       2.4260 ║
+║        198.4400 │             2.2550 │        34.0760 │       2.4260 ║
+║        197.4800 │             2.2530 │        34.0740 │       2.4330 ║
+║        196.4800 │             2.2540 │        34.0740 │       2.4700 ║
+║        195.4800 │             2.2590 │        34.0740 │       2.4330 ║
+║        194.5600 │             2.2640 │        34.0720 │       2.3980 ║
+║        193.5200 │             2.2660 │        34.0700 │       2.4040 ║
+║        192.4400 │             2.2610 │        34.0660 │       2.4510 ║
+║        191.4800 │             2.2590 │        34.0660 │       2.3890 ║
+║        190.4800 │             2.2630 │        34.0630 │       2.4510 ║
+║        189.5200 │             2.2590 │        34.0610 │       2.3710 ║
+║        188.5600 │             2.2640 │        34.0600 │       2.3800 ║
+║        187.5600 │             2.2730 │        34.0590 │       2.4330 ║
+║        186.5600 │             2.2780 │        34.0590 │       2.3800 ║
+║        185.6000 │             2.2860 │        34.0560 │       2.4160 ║
+║        184.5200 │             2.2830 │        34.0550 │       2.3890 ║
+║        183.4000 │             2.2850 │        34.0520 │       2.4600 ║
+║        182.4000 │             2.2880 │        34.0500 │       2.3180 ║
+║        181.4400 │             2.2930 │        34.0430 │       2.3450 ║
+║        180.4400 │             2.2650 │        34.0380 │       2.4240 ║
+║        179.4400 │             2.2510 │        34.0370 │       2.3980 ║
+║        178.4400 │             2.2480 │        34.0370 │       2.2560 ║
+║        177.4800 │             2.2460 │        34.0340 │       2.3980 ║
+║        176.5200 │             2.2330 │        34.0320 │       2.3270 ║
+║        175.5600 │             2.2230 │        34.0280 │       2.3360 ║
+║        174.5600 │             2.2190 │        34.0260 │       2.3710 ║
+║        173.6000 │             2.2210 │        34.0220 │       2.3710 ║
+║        172.5200 │             2.2090 │        34.0170 │       2.4040 ║
+║        171.4400 │             2.1960 │        34.0120 │       2.3540 ║
+║        170.4400 │             2.2000 │        34.0100 │       2.3270 ║
+║        169.4800 │             2.2020 │        34.0090 │       2.3180 ║
+║        168.4800 │             2.2030 │        34.0090 │       2.3710 ║
+║        167.4800 │             2.2100 │        34.0100 │       2.2650 ║
+║        166.4800 │             2.2160 │        34.0110 │       2.3620 ║
+║        165.4800 │             2.2180 │        34.0020 │       2.3270 ║
+║        164.4400 │             2.1950 │        33.9980 │       2.2290 ║
+║        163.4400 │             2.1890 │        33.9980 │       2.3360 ║
+║        162.5200 │             2.1850 │        33.9970 │       2.2670 ║
+║        161.5600 │             2.1760 │        33.9950 │       2.3180 ║
+║        160.4800 │             2.1630 │        33.9910 │       2.3180 ║
+║        159.4000 │             2.1470 │        33.9840 │       2.3620 ║
+║        158.4000 │             2.1470 │        33.9820 │       2.3670 ║
+║        157.4800 │             2.1440 │        33.9800 │       2.2740 ║
+║        156.4800 │             2.1400 │        33.9770 │       2.2120 ║
+║        155.4800 │             2.1260 │        33.9720 │       2.2910 ║
+║        154.5200 │             2.1080 │        33.9620 │       2.2450 ║
+║        153.5200 │             2.0880 │        33.9570 │       2.1850 ║
+║        152.4800 │             2.0960 │        33.9510 │       2.1940 ║
+║        151.4800 │             2.0900 │        33.9500 │       2.3340 ║
+║        150.5200 │             2.1580 │        33.9460 │       2.2470 ║
+║        149.4400 │             2.1630 │        33.9420 │       2.1580 ║
+║        148.4400 │             2.1460 │        33.9380 │       2.1780 ║
+║        147.4800 │             2.1310 │        33.9350 │       2.1760 ║
+║        146.5200 │             2.1110 │        33.9320 │       2.2230 ║
+║        145.5600 │             2.1020 │        33.9300 │       2.2470 ║
+║        144.4400 │             2.0850 │        33.9250 │       2.2470 ║
+║        143.4800 │             2.0590 │        33.9200 │       2.2230 ║
+║        142.5200 │             2.0070 │        33.9050 │       2.0780 ║
+║        141.5600 │             1.9390 │        33.8940 │       2.1560 ║
+║        140.5600 │             1.8680 │        33.8820 │       2.2290 ║
+║        139.5200 │             1.7980 │        33.8780 │       2.2290 ║
+║        138.4400 │             1.7550 │        33.8740 │       2.1310 ║
+║        137.4400 │             1.7550 │        33.8590 │       2.2780 ║
+║        136.5200 │             1.7420 │        33.8600 │       2.1760 ║
+║        135.5600 │             1.7360 │        33.8580 │       2.0440 ║
+║        134.5600 │             1.7090 │        33.8510 │       2.1050 ║
+║        133.5200 │             1.6640 │        33.8400 │       2.1940 ║
+║        132.4400 │             1.5630 │        33.8190 │       2.0870 ║
+║        131.4800 │             1.4590 │        33.8050 │       2.1560 ║
+║        130.5200 │             1.3890 │        33.8030 │       2.0870 ║
+║        129.5200 │             1.3730 │        33.8000 │       1.9550 ║
+║        128.5600 │             1.3680 │        33.7980 │       2.0870 ║
+║        127.5200 │             1.3600 │        33.7950 │       1.9260 ║
+║        126.4400 │             1.3470 │        33.7920 │       1.9350 ║
+║        125.4800 │             1.3260 │        33.7830 │       2.0110 ║
+║        124.5600 │             1.2960 │        33.7780 │       1.9710 ║
+║        123.4800 │             1.2960 │        33.7680 │       1.8990 ║
+║        122.5200 │             1.2820 │        33.7600 │       1.9210 ║
+║        121.5600 │             1.2550 │        33.7520 │       1.9170 ║
+║        120.4800 │             1.2550 │        33.7500 │       1.6740 ║
+║        119.4800 │             1.2560 │        33.7370 │       1.9100 ║
+║        118.5600 │             1.2150 │        33.7210 │       1.8090 ║
+║        117.5600 │             1.1600 │        33.7030 │       1.8090 ║
+║        116.5200 │             0.9790 │        33.6780 │       1.7420 ║
+║        115.5200 │             0.9270 │        33.6740 │       1.7100 ║
+║        114.4800 │             0.8620 │        33.6680 │       1.7530 ║
+║        113.5600 │             0.8680 │        33.6650 │       1.7530 ║
+║        112.4800 │             0.8750 │        33.6560 │       1.6740 ║
+║        111.4400 │             0.8340 │        33.6440 │       1.5950 ║
+║        110.5600 │             0.6840 │        33.5810 │       1.6400 ║
+║        109.4800 │             0.4210 │        33.6190 │       1.5020 ║
+║        108.4800 │             0.3510 │        33.5910 │       1.5720 ║
+║        107.4800 │             0.3020 │        33.5930 │       1.6200 ║
+║        106.4800 │             0.2880 │        33.5900 │       1.4700 ║
+║        105.4800 │             0.2740 │        33.5820 │       1.4570 ║
+║        104.4800 │             0.2210 │        33.5660 │       1.4140 ║
+║        103.5600 │             0.1800 │        33.5600 │       1.4250 ║
+║        102.5600 │             0.1060 │        33.5450 │       1.3660 ║
+║        101.5600 │            -0.0080 │        33.5350 │       1.3110 ║
+║        100.5600 │            -0.0510 │        33.5390 │       1.2310 ║
+║         99.4400 │            -0.0310 │        33.5340 │       1.2020 ║
+║         98.4000 │            -0.0150 │        33.5390 │       1.1400 ║
+║         97.5200 │            -0.0530 │        33.5090 │       1.0480 ║
+║         96.5200 │            -0.2000 │        33.4910 │       1.0180 ║
+║         95.5200 │            -0.3150 │        33.4970 │       1.0480 ║
+║         94.5200 │            -0.4800 │        33.4810 │       0.9630 ║
+║         93.4400 │            -0.6400 │        33.4750 │       0.9820 ║
+║         92.4400 │            -0.7760 │        33.4450 │       0.8410 ║
+║         91.5600 │            -0.9050 │        33.4580 │       0.8640 ║
+║         90.5600 │            -0.9620 │        33.4390 │       0.7970 ║
+║         89.4400 │            -1.0540 │        33.4320 │       0.6670 ║
+║         88.4400 │            -1.0900 │        33.4270 │       0.6440 ║
+║         87.4800 │            -1.0930 │        33.4240 │       0.5840 ║
+║         86.4400 │            -1.0690 │        33.4250 │       0.5750 ║
+║         85.4400 │            -1.0380 │        33.4190 │       0.5510 ║
+║         84.4400 │            -1.0680 │        33.4050 │       0.4930 ║
+║         83.5600 │            -1.0820 │        33.3970 │       0.4810 ║
+║         82.5600 │            -1.1950 │        33.3790 │       0.4350 ║
+║         81.4400 │            -1.3440 │        33.3740 │       0.3410 ║
+║         80.4800 │            -1.5150 │        33.3500 │       0.1770 ║
+║         79.4800 │            -1.5480 │        33.3650 │       0.2100 ║
+║         78.4800 │            -1.5580 │        33.3590 │       0.2360 ║
+║         77.4800 │            -1.5680 │        33.3540 │       0.0970 ║
+║         76.4800 │            -1.5880 │        33.3540 │       0.0590 ║
+║         75.4800 │            -1.6290 │        33.3510 │       0.0500 ║
+║         74.4800 │            -1.6410 │        33.3480 │       0.0000 ║
+║         73.4400 │            -1.6570 │        33.3450 │      -0.0920 ║
+║         72.4400 │            -1.6660 │        33.3450 │      -0.1180 ║
+║         71.5600 │            -1.6620 │        33.3430 │      -0.2130 ║
+║         70.5600 │            -1.6620 │        33.3410 │      -0.2350 ║
+║         69.5600 │            -1.6590 │        33.3390 │      -0.2730 ║
+║         68.5600 │            -1.6620 │        33.3380 │      -0.3870 ║
+║         67.5600 │            -1.6650 │        33.3380 │      -0.4160 ║
+║         66.5600 │            -1.6720 │        33.3360 │      -0.4350 ║
+║         65.4400 │            -1.6810 │        33.3360 │      -0.4540 ║
+║         64.4400 │            -1.6820 │        33.3350 │      -0.4160 ║
+║         63.5600 │            -1.6850 │        33.3350 │      -0.5480 ║
+║         62.5600 │            -1.6880 │        33.3340 │      -0.5020 ║
+║         61.5600 │            -1.6880 │        33.3340 │      -0.5360 ║
+║         60.5600 │            -1.6880 │        33.3330 │      -0.6080 ║
+║         59.5200 │            -1.6890 │        33.3340 │      -0.6440 ║
+║         58.4800 │            -1.6870 │        33.3340 │      -0.6180 ║
+║         57.4400 │            -1.6850 │        33.3320 │      -0.6920 ║
+║         56.5200 │            -1.6910 │        33.3310 │      -0.8620 ║
+║         55.5600 │            -1.6930 │        33.3300 │      -0.8130 ║
+║         54.5200 │            -1.6930 │        33.3300 │      -0.7430 ║
+║         53.4400 │            -1.6930 │        33.3300 │      -0.8490 ║
+║         52.4800 │            -1.6930 │        33.3310 │      -0.8740 ║
+║         51.5200 │            -1.6900 │        33.3300 │      -0.9340 ║
+║         50.5600 │            -1.6870 │        33.3310 │      -0.9590 ║
+║         49.6000 │            -1.6850 │        33.3290 │      -1.0440 ║
+║         48.5200 │            -1.6840 │        33.3290 │      -0.9170 ║
+║         47.4400 │            -1.6820 │        33.3300 │      -0.9830 ║
+║         46.4800 │            -1.6820 │        33.3290 │      -0.9710 ║
+║         45.5200 │            -1.6820 │        33.3290 │      -1.0070 ║
+║         44.5600 │            -1.6810 │        33.3280 │      -1.0190 ║
+║         43.5600 │            -1.6790 │        33.3300 │      -1.1660 ║
+║         42.4800 │            -1.6770 │        33.3280 │      -1.0240 ║
+║         41.4400 │            -1.6760 │        33.3280 │      -1.2880 ║
+║         40.4800 │            -1.6760 │        33.3290 │      -1.1900 ║
+║         39.5200 │            -1.6750 │        33.3270 │      -1.1050 ║
+║         38.5600 │            -1.6760 │        33.3290 │      -1.2390 ║
+║         37.6000 │            -1.6760 │        33.3280 │      -1.1290 ║
+║         36.5200 │            -1.6750 │        33.3290 │      -1.2590 ║
+║         35.4400 │            -1.6740 │        33.3280 │      -1.3740 ║
+║         34.4800 │            -1.6790 │        33.3260 │      -1.3370 ║
+║         33.5200 │            -1.6820 │        33.3270 │      -1.2150 ║
+║         32.6000 │            -1.6780 │        33.3270 │      -1.2270 ║
+║         31.5200 │            -1.6690 │        33.3250 │      -1.2690 ║
+║         30.4400 │            -1.6650 │        33.3230 │      -1.3010 ║
+║         29.4400 │            -1.6580 │        33.3220 │      -1.3620 ║
+║         28.4800 │            -1.6540 │        33.3200 │      -1.3370 ║
+║         27.5200 │            -1.6530 │        33.3190 │      -1.3990 ║
+║         26.4800 │            -1.6530 │        33.3200 │      -1.2790 ║
+║         25.4000 │            -1.6520 │        33.3190 │      -1.4240 ║
+║         24.4800 │            -1.6510 │        33.3190 │      -1.3500 ║
+║         23.4800 │            -1.6450 │        33.3170 │      -1.4480 ║
+║         22.5200 │            -1.6420 │        33.3160 │      -1.3870 ║
+║         21.6000 │            -1.6350 │        33.3110 │      -1.3130 ║
+║         20.5200 │            -1.6330 │        33.3080 │      -1.4360 ║
+║         19.4400 │            -1.6300 │        33.3050 │      -1.4610 ║
+║         18.4400 │            -1.6380 │        33.3020 │      -1.3870 ║
+║         17.5200 │            -1.6410 │        33.3020 │      -1.4360 ║
+║         16.5600 │            -1.6310 │        33.2980 │      -1.4850 ║
+║         15.4800 │            -1.6300 │        33.2960 │      -1.4650 ║
+║         14.3600 │            -1.6270 │        33.2950 │      -1.3130 ║
+║         13.4400 │            -1.5970 │        33.2930 │      -1.4360 ║
+║         12.4800 │            -1.5410 │        33.2790 │      -1.4980 ║
+║         11.5200 │            -1.5370 │        33.2780 │      -1.3130 ║
+║         10.5600 │            -1.5330 │        33.2780 │      -1.3990 ║
+║          9.5200 │            -1.5290 │        33.2790 │      -1.3870 ║
+║          8.4400 │            -1.5180 │        33.2760 │      -1.4980 ║
+║          7.4400 │            -1.4550 │        33.2730 │      -1.5220 ║
+║          6.5200 │            -1.4220 │        33.2610 │      -1.3010 ║
+║          5.5600 │            -1.3650 │        33.2630 │      -1.3500 ║
+║          4.4800 │            -1.2130 │        33.2400 │      -1.4750 ║
+║          3.4800 │            -1.1370 │        33.2370 │      -1.4850 ║
+║          2.5200 │            -0.9650 │        33.1790 │      -1.3870 ║
+║          1.5600 │            -0.9170 │        33.1550 │      -1.3370 ║
+╚═════════════════╧════════════════════╧════════════════╧══════════════╝
+
+unbinned:
+<empty>
+
+discrete:
+<empty>
+
+
+surface: continuous:
+<empty>
+
+discrete:
+╔═════════════════╤════════════════════╤════════════════╤════════════════╗
+║ pressure (dBar) │ temperature (degC) │ salinity (psu) │ time (seconds) ║
+╟─────────────────┼────────────────────┼────────────────┼────────────────╢
+║          0.1200 │            -1.2630 │         0.1450 │     1619246524 ║
+║          0.0800 │            -1.6330 │         0.0010 │     1619246584 ║
+║          0.0800 │            -1.6540 │         0.0020 │     1619246644 ║
+║          0.0800 │            -1.6880 │         0.0020 │     1619246704 ║
+║          0.0800 │            -1.6990 │         0.0010 │     1619246764 ║
+║          0.0800 │            -1.6890 │         0.0020 │     1619246824 ║
+║          0.0800 │            -1.6810 │         0.0020 │     1619246884 ║
+║          0.0800 │            -1.6520 │         0.0020 │     1619246944 ║
+║          0.0800 │            -1.6180 │         0.0020 │     1619247004 ║
+║          0.0800 │            -1.5500 │         0.0010 │     1619247064 ║
+╚═════════════════╧════════════════════╧════════════════╧════════════════╝
+
+
+Status
+Mission Parameters
+sensor: 0         0 = RBR, 1 = SBE
+MSN   : 4         dive cycle number
+MPS   : 0         mission phase (0-2)
+MPC   : 1         mission phase cycle (0-50,000)
+MNM0  : 1         mission num cycles - phase 0 (0-50,000)
+MNM1  : 0         mission num cycles - phase 1 (0-50,000)
+MNM2  : 0         mission num cycles - phase 2 (0-50,000)
+MNS0  : 0         mission phase to execute after phase 0
+MNS1  : 0         mission phase to execute after phase 1
+MNS2  : 0         mission phase to execute after phase 2
+DTD0  : 350       descend target depth - phase 0 (dBar)
+DTD1  : 400       descend target depth - phase 1 (dBar)
+DTD2  : 400       descend target depth - phase 2 (dBar)
+MDS   : 1150      mission death (abort) pressure (dBar)
+APT   : 1         automatic parameter transmit (0=dis, 1=en)
+BTM   : 1         bluetooth mode (0=dis, 1=en)
+DDB   : 0         diagnostic dive bypass (0=execute, 1=skip)
+XAS   : 2         compression algorithm (1=difference, 2=curvature)
+CPS   : 1         CTD profiling mode (0=dis, 1=en)
+CST   : 1         CTD profile sampling type (0=binned, 1=raw)
+CTF   : 2         CTD profile cutoff pressure (dBar)
+CTL   : 0         pressure sensor reset lower limit
+CTU   : 2         pressure sensor reset upper limit
+CTC   : 1         conductivity temperature channel mode (0=dis, 1=en)
+CSP   : 1000      CTD continuous sampling period (ms)
+CPB1  : 2000      CTD profile segment 1 (bottom) lower boundary (dBar)
+CPB2  : 300       CTD profile segment 2 (middle) lower boundary (dBar)
+CPB3  : 100       CTD profile segment 3 (top) lower boundary (dBar)
+CPN1  : 20        CTD profile segment 1 bin size (SBE:dBar) (RBR:dBar*10)
+CPN2  : 10        CTD profile segment 2 bin size (SBE:dBar) (RBR:dBar*10)
+CPN3  : 10        CTD profile segment 3 bin size (SBE:dBar) (RBR:dBar*10)
+CPP1  : 2000      CTD profile segment 1 sampling period (SBE:dBar, RBR:ms)
+CPP2  : 1000      CTD profile segment 2 sampling period (SBE:dBar, RBR:ms)
+CPP3  : 1000      CTD profile segment 3 sampling period (SBE:dBar, RBR:ms)
+CRD   : 50        CTD profile raw start depth (dBar)
+CRS   : 0         CTD profile max raw samples (0=disabled)
+MTD   : 10        mission trigger depth (dBar)
+MTT   : 600000    mission trigger pressure sample period (ms)
+MTS   : 1296000   mission trigger pressure sample timeout (sec)
+MAM   : 0         IMU sample mode mask
+MAT1  : 1         IMU sample intervals
+MAT2  : 300       IMU sample interval duration (sec)
+MAP   : 600       IMU sample period (sec)
+ACA   : 2         IMU accelerometer scale factor (g/LSB)
+ACG   : 250       IMU gyro sensitivity scale factor (deg/s/LSB)
+ACR   : 4         IMU sample rate (Hz)
+PNB   : 1200      BIST battery voltage min (V * 100)
+PNC   : 400       BIST case vac min (psi * 100)
+PXC   : 1500      BIST case vac max (psi * 100)
+PBL   : 43668     12V battery calibration
+PBH   : 50958     14V battery calibration
+PP0   : 0         oil pump 0mA calibration
+PP1   : 25960     oil pump 1000mA calibration
+PVL   : 1790      V12 sig 12V calibration
+PVH   : 2089      V12 sig 14V calibration
+PV0   : 61614     vacuum 0inHg calibration
+PV5   : 32000     vacuum 5inHg calibration
+PC0   : 0         V12 sig 0mA calibration
+PC1   : 16600     V12 sig 1000mA calibration
+ICM   : 0         ice mode (0=dis,1=en)
+IMM   : 0         ice month mask
+ICA0  : 5         ice max surface attempts - summer
+ICA1  : 5         ice max surface attempts - winter
+ICB0  : 1         ice cycles between surface attempts - summer
+ICB1  : 1         ice cycles between surface attempts - winter
+IMT0  : 70        ice message threshold - summer
+IMT1  : 70        ice message threshold - winter
+ILT0  : 180       ice last transmit threshold - summer
+ILT1  : 180       ice last transmit threshold - winter
+ICN   : 20        ice minimum depth
+ICX   : 40        ice maximum depth
+ICT   : 0         ice temperature threshold (degC * 100)
+ICS   : 30        ice storage timeout
+ISS0  : 2         ice surface search - summer
+ISS1  : 2         ice surface search - winter
+ISM   : 1         ice surface search mask
+IST   : 20        ice surface salinity threshold
+ISO   : 180       ice surface search timeout
+ISP   : 0         ice surface search profile mode
+IUE0  : 0         ice urgency exit mode - summer
+IUE1  : 0         ice urgency exit mode - winter
+ICD0  : 100       ice descend hold depth - summer
+ICD1  : 100       ice descend hold depth - winter
+ICR0  : 30        ice descend hold timeout - summer
+ICR1  : 30        ice descend hold timeout - winter
+ICG0  : 0         ice descend seek mode - summer
+ICG1  : 0         ice descend seek mode - winter
+ISA   : 1         ice descend seek attempts
+ISD   : 10        ice descend seek depth delta
+IAT   : 1200      ice descend seek timeout
+ISV   : 30        ice descend seek velocity timeout
+ISW   : 1200      ice descend seek wait timeout
+ICO0  : 45        ice descend valve timeout - summer
+ICO1  : 45        ice descend valve timeout - winter
+ICF   : 0         ice free mask
+ICW   : 0         ice winter mask
+DNS   : 3         descend phase cycle number
+DRA   : 20        descend target fall rate (cm/sec)
+DSD0  : 50        descend start depth - phase 0 (dBar)
+DSD1  : 400       descend start depth - phase 1 (dBar)
+DSD2  : 400       descend start depth - phase 2 (dBar)
+DST0  : 800       descend start timeout - phase 0 (sec)
+DST1  : 7200      descend start timeout - phase 1 (sec)
+DST2  : 7200      descend start timeout - phase 2 (sec)
+DDF   : 220       descend diagnostic dive initail pump time (sec)
+DDC   : 600       descend diagnostic dive calibration timeout (sec)
+DSI   : 1000      descend sample interval (ms)
+DDD   : 10        descend fall-series sample pressure interval (dBar)
+DDT   : 600       descend fall-series sample timeout (sec)
+DFT0  : 70        descend fall pump duration - phase 0 (sec)
+DFT1  : 130       descend fall pump duration - phase 1 (sec)
+DFT2  : 130       descend fall pump duration - phsae 2 (sec)
+DCM   : 1         descend calibration mode (0=dis,1=en)
+DAL   : 1         descend calibration algorithm (0=cal,1=seek)
+DCT0  : 10800     descend calibration algorithm timeout - phase 0 (sec)
+DCT1  : 10800     descend calibration algorithm timeout - phase 1 (sec)
+DCT2  : 10800     descend calibration algorithm timeout - phase 2 (sec)
+DCA   : 3         descend calibration attempts
+DRC   : 3         (deprecated) descend calibration calculated rate (sec)
+DRT   : -17       descend seek rate adjustment timeout
+DCX   : 1020      descend seek algorithm max pump time (sec)
+DCP   : 5         descend seek algorithm min pump time (sec)
+DCF   : 5         descend seek algorithm min valve time (sec)
+DCD   : 200       (deprecated) descend calibration algorithm depth delta (dBar)
+DCR   : 0         descend calibration rate
+DSW   : 3600      descend seek algorithm seek interval (sec)
+DUC   : 100       descend seek algorithm underdamping factor
+DPT   : 5         descend seek algorithm 100dBar delta pump duration (sec)
+DUT   : 5         descend seek algorithm 100dBar delta valve duration (sec)
+DPD   : 5         descend seek algorithm first pump duration (sec)
+DVT   : 30        descend seek algorithm pressure sample interval (sec)
+DVD   : 25        descend seek algorithm valve depth delta (dBar)
+DVW   : 300       descend seek algorithm valve wait time (sec)
+PFR   : 19        pump flow rate (cc/min)
+PFC   : 16        pump flow rate calculation (cc/meter * 1000)
+DDP   : 2         descend diagnostic dive ascend trigger pressure (dBar)
+DDS   : 180       descend diagnostic dive ascend trigger timeout (sec)
+PNS   : 3         park cycle number
+PTO0  : 3600      park timeout - phase 0
+PTO1  : 0         park timeout - phase 1
+PTO2  : 0         park timeout - phase 2
+PTH0  : 0         park timeout hour mask - phase 0
+PTH1  : 0         park timeout hour mask - phase 1
+PTH2  : 0         park timeout hour mask - phase 2
+PTD   : 0         park timeout date/time
+PSA   : 1         park sample mode
+PSI   : 600000    park sample interval (ms)
+PFM0  : 0         park fall mode - phase 0 (0=dis,1=en)
+PFM1  : 0         park fall mode - phase 1
+PFM2  : 0         park fall mode - phase 2
+PFT0  : 3600      park fall timeout - phase 0 (sec)
+PFT1  : 3600      park fall timeout - phase 1
+PFT2  : 3600      park fall timeout - phase 2
+PFD0  : 800       park fall depth - phase 0 (dBar)
+PFD1  : 0         park fall depth - phase 1
+PFD2  : 0         park fall depth - phase 2
+PFV0  : 0         park fall valve timeout - phase 0 (sec)
+PFV1  : 0         park fall valve timeout - phase 1
+PFV2  : 0         park fall valve timeout - phase 2 (sec)
+PDT   : 1800      park data storage interval (sec)
+PSM   : 1         park seek mode (0=dis, 1=en)
+PSD   : 200       park seek depth delta (dBar)
+PST   : 3600      park seek timeout (sec)
+PSV   : 30        park seek velocity delay time (sec)
+PSW   : 1300      park seek wait timeout (sec)
+PSS   : 7         park sampling scheme (1=P,2=T,3=PT,4=S,7=PTS)
+ASN   : 3         ascend cycle number
+ARR   : 10        ascend rise rate (cm/sec)
+APM   : 2400      ascend pump max run time (sec)
+APS   : 60        ascend pump start duration (sec)
+APN   : 30        ascend pump on duration (sec)
+APF   : 120       ascend pump off duration (sec)
+ASI   : 1000      ascend sample interval (sec)
+ASD   : 2         ascend surface depth threshold (dBar)
+ADD   : 10        ascend data storage interval depth (dBar)
+ADT   : 600       ascend data storage interval time (sec)
+ARC   : 3000      ascend rise rate calculation adjustment
+AHR   : 1000      ascend halt rise rate (cm/sec)
+AHD   : 10        ascend halt depth delta
+SFN   : 3         surface cycle number
+SDC   : 0         surface depth (pressure) compensation (dBar)
+SGT   : 15        surface gps timeout (min)
+SET   : 15        surface iridium timeout (min)
+SBM   : 0         surface beacon mode (0=dis, 1=en)
+SBT   : 300       surface beacon interval (sec)
+SSA   : 0         surface sampling average mode
+SSI   : 7000      surface sample interval (ms)
+SDS   : 60        surface data storage interval (sec)
+SAM   : 1         surface air assist mode (0=dis, 1=en)
+SAX   : 7500      surface air assist max pressure (psi)
+SAN   : 6500      surface air assist min pressure (psi)
+SAO   : 1080      surface air assist min duration (sec)
+SPT   : 600       surface CTD data storage timeout (sec)
+SSP   : 20        surface oil pump duration (sec)
+
+Argo
+0xF0 - Engineering: Argo
+target profile pressure   : 800.0000 dBar
+target parking pressure   : 350.0000 dBar
+max ascend duration       : 40.0000 minutes
+max descend duration      : 184.0000 minutes
+max fall duration         : 3600.0000 seconds
+target park duration      : 60.0000 minutes
+descend start time        : 2021-04-23 21:50:16 UTC
+park start time           : 2021-04-24 05:16:17 UTC
+ascend start time         : 2021-04-24 06:16:20 UTC
+surface start time        : 2021-04-24 06:41:49 UTC
+float type identifier     : 3
+target ascent rate        : 10.0000 cm/s
+max number seeks          : 3
+max surface duration      : 4400.0000 seconds
+seek interval duration    : 3600.0000 minutes
+pressure gain             : 25.0000
+pressure offset           : 10.0000 dBar
+temperature gain          : 1000.0000
+temperature offset        : 5.0000 degC
+salinity gain             : 1000.0000
+salinity offset           : 1.0000 psu
+surface pressure gain     : 25.0000
+surface pressure offset   : 10.0000 dBar
+surface temperature gain  : 1000.0000
+surface temperature offset: 5.0000 degC
+surface salinity gain     : 1000.0000
+surface salinity offset   : 1.0000 psu
+mission phase number      : 0
+
+Command Echo
+DCM 1;DCT 0 600;DCA 3;DTD 0 410;DFT 0 40;DSD 0 50;DST 0 800;PTO 0 3600;PSM 1;PSD 50;PSI 600000;PDT 1800;PFM 0 0;PFD 0 800;APS 70;ARC 30;APN 30;APF 180;APM 2400;SAO 1080;MIC 1
+Engineering
+pump: 
+╔══════════════╤═════════════════╤════════════════════╤═════════════╤═════════════╤══════════════════════╗
+║        state │ pressure (dBar) │ duration (seconds) │ voltage (V) │ current (A) │ case_pressure (inHg) ║
+╟──────────────┼─────────────────┼────────────────────┼─────────────┼─────────────┼──────────────────────╢
+║ descent pump │         50.4000 │            71.0000 │     14.3600 │      0.2520 │               6.2300 ║
+║ ascent start │        287.1200 │            60.0000 │     14.5000 │      0.3590 │               6.0900 ║
+║       ascent │        269.8800 │            31.0000 │     14.5100 │      0.3600 │               6.1400 ║
+║       ascent │        249.0400 │            31.0000 │     14.5100 │      0.3210 │               6.1900 ║
+║       ascent │        224.8400 │            31.0000 │     14.5200 │      0.3240 │               6.2400 ║
+║       ascent │        198.0000 │            31.0000 │     14.5200 │      0.2980 │               6.3000 ║
+║       ascent │        166.8800 │            31.0000 │     14.4800 │      0.2810 │               6.3500 ║
+║       ascent │        124.3200 │            31.0000 │     14.4900 │      0.2580 │               6.4300 ║
+║       ascent │         62.0800 │            31.0000 │     14.5000 │      0.2450 │               6.5900 ║
+║      surface │          0.0000 │            20.0000 │     14.4800 │      0.2450 │               6.9100 ║
+╚══════════════╧═════════════════╧════════════════════╧═════════════╧═════════════╧══════════════════════╝
+
+valve: 
+╔═══════════════╤═════════════════╤════════════════════╤═════════════════╗
+║         state │ pressure (dBar) │ duration (seconds) │ case_vac (inHg) ║
+╟───────────────┼─────────────────┼────────────────────┼─────────────────╢
+║ descent start │          0.0400 │           771.0000 │          6.1400 ║
+║  descent seek │        167.6800 │            10.0000 │          6.0600 ║
+║  descent seek │        222.8400 │             7.0000 │          6.0300 ║
+╚═══════════════╧═════════════════╧════════════════════╧═════════════════╝
+
+other:
+0xE7 - Engineering: Descend
+start time                  : 2021-04-23 21:50:16 UTC
+case vac start              : 8.2200 inHg
+case vac end                : 6.0100 inHg
+oil valve surface open pos  : 1.6580 V
+oil valve descend close pos : 0.8080 V
+air valve surface middle pos: 0.7680 V
+seek attempts               : 3
+seek pump time adjust       : -18.0000 seconds
+
+0xE8 - Engineering: Park
+start time         : 2021-04-24 05:16:17 UTC
+case vac start     : 6.0100 inHg
+case vac end       : 6.0100 inHg
+average pressure   : 286.6400 dBar
+average temperature: 2.6020 degC
+average salinity   : 34.1770 psu
+seek attempts      : 0.0000
+seek time adjust   : 0.0000 seconds
+
+0xE9 - Engineering: Ascend
+start time         : 2021-04-24 06:16:20 UTC
+case vac start     : 6.0100 inHg
+case vac end       : 6.5900 inHg
+fall start time    : 2000-01-01 00:00:00 UTC
+fall start pressure: 0.0000 dBar
+
+0xEA - Engineering: Surface
+start time                    : 2021-04-24 06:41:49 UTC
+start packetize time          : 2021-04-24 06:41:49 UTC
+end packetize time            : 2021-04-24 06:52:04 UTC
+num packets                   : 9
+previous transmission attempts: 23
+case vac start                : 6.5900 inHg
+case vac end                  : 8.0800 inHg
+gps rtc delta                 : 0.0000 seconds
+ctd status                    : stop
+first raw pressure            : 287.0800 dBar
+first raw temperature         : 2.6070 degC
+first raw salinity            : 34.1770 psu
+last raw pressure             : 1.5600 dBar
+last raw temperature          : -0.9170 degC
+last raw salinity             : 33.1550 psu
+ctd num profile bins          : 287
+ctd num profile samples       : 0
+ctd num empty                 : 0
+air pump current              : 0.0360 A
+air pump runtime              : 613.0000 seconds
+air bladder max pressure      : 7.2720 psi
+air valve start open pos      : 1.2690 V
+air valve end middle pos      : 0.0000 V
+oil valve assist open pos     : 1.6750 V
+oil valve end close pos       : 0.8180 V
+air valve cal open pos        : 1.2110 V
+air valve cal close pos       : 0.1290 V
+air valve cal middle pos      : 0.6700 V
+oil valve cal open pos        : 1.6310 V
+oil valve cal close pos       : 0.8430 V
+pressure offset reading       : 0.0820 dBar
+error count                   : 0
+errors                        : <empty>
+
+
+
