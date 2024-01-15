@@ -20,3 +20,5 @@ A timeseries of solid ice discharge from Jakobshavn Isbrae was extracted from Ma
 ## Rigid Mélange Extent 
 The maximum extent of rigid mélange was measured at a monthly resolution, relative to the contemporaneous terminus position. The frontal position of the mélange was manually digitised from the continuous ITS_LIVE 6-day (2018-2022) and 12-day (2022-2023) velocity pairs; this method therefore assumes that a coherent velocity signal over the mélange is indicative of rigidity, as outlined by Chudley et al. (2023) ( https://doi.org/10.1038/s41467-023-37764-7). The 'rigid_melange_extent' script plots  data from the 'ice_melange_rigidity_2018_2023' CSV file, provided within the 'ice_melange_rigidity' folder.
 
+## Air Temperature 
+Monthly estimates of mean surface air temperature were downloaded for Aasiaat Egedesminde (AE) and Ilulissat Mittarfik (IM), from the Goddard Institute for Space Studies Surface Temperature Analysis Version 4 (GISTEMP v4) dataset (https://data.giss.nasa.gov/gistemp/). The 'air_temperature' analysis script plots mean monthly surface temperature anomalies, relative to the 1991-2018 mean, for both respective sites. 
