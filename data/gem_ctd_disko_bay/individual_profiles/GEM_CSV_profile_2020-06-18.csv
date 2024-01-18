@@ -1,0 +1,12 @@
+Date,Julian Day,Latitude,Longitude,Station name,Depth (m),Temp (°C),Conductivity (S/m),Salinity (PSU),Density (kg/m^3),Fluorescence (arbitrary),Turbidity (FTU),PAR/Irradiance,ID_CTD
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,50.0,0.912,2.881,33.6564,1027.2104,0.15,0.352,0.0,Seabird SBE19plus
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,51.0,0.916,2.8818,33.6623,1027.2197,0.13,0.329,0.0,Seabird SBE19plus
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,52.0,0.926,2.8837,33.675,1027.234,0.14,0.297,0.0,Seabird SBE19plus
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,53.0,0.920,2.8834,33.6781,1027.2417,0.13,0.339,0.0,Seabird SBE19plus
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,54.0,0.903,2.8831,33.692,1027.2588,0.16,0.272,0.0,Seabird SBE19plus
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,55.0,0.909,2.8861,33.7234,1027.2883,0.13,0.291,0.0,Seabird SBE19plus
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,56.0,0.983,2.8938,33.7408,1027.3024,0.13,0.257,0.0,Seabird SBE19plus
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,57.0,1.030,2.8969,33.73,1027.2955,0.14,0.293,0.0,Seabird SBE19plus
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,58.0,1.045,2.8981,33.7285,1027.2981,0.11,0.266,0.0,Seabird SBE19plus
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,59.0,1.045,2.8979,33.7254,1027.3004,0.12,0.281,0.0,Seabird SBE19plus
+2020-06-18,44000,69° 11.1 N,53° 31.1 W,Fast station,60.0,1.030,2.8954,33.7093,1027.2932,0.12,0.261,0.0,Seabird SBE19plus

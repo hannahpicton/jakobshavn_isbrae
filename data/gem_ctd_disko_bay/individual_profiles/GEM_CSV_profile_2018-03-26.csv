@@ -1,0 +1,12 @@
+Date,Julian Day,Latitude,Longitude,Station name,Depth (m),Temp (°C),Conductivity (S/m),Salinity (PSU),Density (kg/m^3),Fluorescence (arbitrary),Turbidity (FTU),PAR/Irradiance,ID_CTD
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,53.0,-1.495,2.6712,33.5131,1027.222,0.24,0.159,0.25,Seabird SBE19plus
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,54.0,-1.341,2.6819,33.4866,1027.2007,0.23,0.141,0.24,Seabird SBE19plus
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,57.0,-1.417,2.6759,33.4875,1027.2184,0.24,0.15,0.22,Seabird SBE19plus
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,58.0,-1.414,2.6775,33.5072,1027.2392,0.22,0.127,0.22,Seabird SBE19plus
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,59.0,-1.177,2.7022,33.579,1027.2944,0.19,0.199,0.21,Seabird SBE19plus
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,61.0,-0.802,2.7307,33.5472,1027.2643,0.13,0.113,0.19,Seabird SBE19plus
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,64.0,-0.208,2.7838,33.5998,1027.295,0.08,0.12,0.18,Seabird SBE19plus
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,65.0,-0.171,2.7857,33.5832,1027.2846,0.08,0.147,0.17,Seabird SBE19plus
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,66.0,-0.157,2.7873,33.5884,1027.2929,0.07,0.116,0.17,Seabird SBE19plus
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,67.0,-0.158,2.7873,33.5895,1027.2986,0.07,0.121,0.17,Seabird SBE19plus
+2018-03-26,43185,69° 14.81 N,53° 29.55 W,Vinter station,68.0,-0.145,2.7887,33.5932,1027.3059,0.08,0.121,0.16,Seabird SBE19plus

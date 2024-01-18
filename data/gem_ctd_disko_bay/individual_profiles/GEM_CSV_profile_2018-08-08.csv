@@ -1,0 +1,12 @@
+Date,Julian Day,Latitude,Longitude,Station name,Depth (m),Temp (°C),Conductivity (S/m),Salinity (PSU),Density (kg/m^3),Fluorescence (arbitrary),Turbidity (FTU),PAR/Irradiance,ID_CTD
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,72.0,0.125,2.8011,33.4589,1027.2029,0.12,0.29,0.0,Seabird SBE19plus
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,73.0,0.115,2.8019,33.4796,1027.225,0.12,0.294,0.0,Seabird SBE19plus
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,74.0,0.136,2.8053,33.5003,1027.2453,0.13,0.285,0.0,Seabird SBE19plus
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,75.0,0.169,2.8064,33.4783,1027.2307,0.14,0.339,0.0,Seabird SBE19plus
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,76.0,0.164,2.8067,33.4878,1027.2434,0.13,0.337,0.0,Seabird SBE19plus
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,77.0,0.164,2.8067,33.487,1027.2475,0.14,0.334,0.0,Seabird SBE19plus
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,78.0,0.165,2.8068,33.4864,1027.2518,0.16,0.29,0.0,Seabird SBE19plus
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,79.0,0.099,2.8006,33.4753,1027.2512,0.13,0.388,0.0,Seabird SBE19plus
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,80.0,0.057,2.7967,33.4708,1027.2547,0.10,0.343,0.0,Seabird SBE19plus
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,81.0,0.015,2.7959,33.5056,1027.2898,0.10,0.273,0.0,Seabird SBE19plus
+2018-08-08,43320,69° 11.1 N,53° 31.1 W,Fast station,82.0,0.013,2.797,33.5203,1027.3065,0.10,0.269,0.0,Seabird SBE19plus

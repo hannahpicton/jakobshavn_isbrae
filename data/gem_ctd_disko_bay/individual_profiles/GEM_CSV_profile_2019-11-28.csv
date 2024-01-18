@@ -1,0 +1,7 @@
+Date,Julian Day,Latitude,Longitude,Station name,Depth (m),Temp (°C),Conductivity (S/m),Salinity (PSU),Density (kg/m^3),Fluorescence (arbitrary),Turbidity (FTU),PAR/Irradiance,ID_CTD
+2019-11-28,43797,69° 11.1 N,53° 31.1 W,Fast station,114.0,2.814,3.0306,33.4774,1027.2267,0.25,0.045,0.0,Seabird SBE19plus
+2019-11-28,43797,69° 11.1 N,53° 31.1 W,Fast station,115.0,2.846,3.0342,33.4875,1027.2366,0.23,0.055,0.0,Seabird SBE19plus
+2019-11-28,43797,69° 11.1 N,53° 31.1 W,Fast station,116.0,2.835,3.0335,33.4895,1027.2439,0.23,0.031,0.0,Seabird SBE19plus
+2019-11-28,43797,69° 11.1 N,53° 31.1 W,Fast station,117.0,2.801,3.0299,33.4815,1027.2453,0.24,0.04,0.0,Seabird SBE19plus
+2019-11-28,43797,69° 11.1 N,53° 31.1 W,Fast station,118.0,2.730,3.0262,33.5085,1027.2778,0.22,0.053,0.0,Seabird SBE19plus
+2019-11-28,43797,69° 11.1 N,53° 31.1 W,Fast station,119.0,2.699,3.0242,33.5168,1027.292,0.21,0.059,0.0,Seabird SBE19plus
