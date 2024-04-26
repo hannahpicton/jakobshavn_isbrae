@@ -1,5 +1,5 @@
 # Jakobshavn Isbrae 
-Code associated with the manuscript 'A reassessment of the role of atmospheric and oceanic forcing on ice dynamics at Jakobshavn Isbræ, Ilulissat Icefjord', submitted to the Journal of Geophysical Research: Earth Surface (May 2024).
+Code associated with the manuscript 'A reassessment of the role of atmospheric and oceanic forcing on ice dynamics at Jakobshavn Isbræ, Ilulissat Icefjord', submitted to the Journal of Geophysical Research: Earth Surface.
 
 ## Terminus Position 
 The 'terminus_position_maqit' data folder contains the terminus position shapefiles for Jakobshavn Isbrae (2018-2023). Terminus positions were manually digitised between 2022 and 2023 from SAR imagery, for the purposes of this study. Those provided between 2018 and 2022 were downloaded from the MEaSUREs Weekly to Monthly Greenland Outlet Glacier Terminus Positions from Sentinel-1 Mosaics (2018-2022; https://nsidc.org/data/nsidc-0781/versions/1). 
