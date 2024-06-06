@@ -18,3 +18,11 @@ Terminus positions derived between 2018 and 2022 were downloaded from the MEaSUR
 ## Rigid Mélange Extent
 The maximum extent of rigid mélange was measured at a monthly resolution, relative to the contemporaneous terminus position. The frontal position of the mélange was manually digitised from continuous ITS_LIVE 6-day (2018-2022) and 12-day (2022-2023) velocity pairs; this method assumes that a coherent velocity signal over the mélange is indicative of rigidity, as outlined by Chudley et al. (2023; https://doi.org/10.1038/s41467-023-37764-7).
 
+## Ocean Temperature 
+As part of NASA’s Oceans Melting Greenland (OMG) project, four AXCTD probes were jetissoned into Ilulissat Icefjord during the study period, each deployed in either August or September (https://doi.org/10.5067/OMGEV-AXCT1). CTD data collected in Disko Bay was also employed, collected from ALAMO floats (https://doi.org/10.5067/OMGEV-ALMO1), APEX floats (https://doi.org/10.5067/OMGEV-APXF1) and as part of the Greenland Ecosystem Monitoring (GEM) programme (https://doi.org/10.17897/WH30-HT61).
+
+## Air Temperature 
+Observations of daily surface air temperature were downloaded from the Ilulissat Mittarfik meteorological station (04221; https://www.dmi.dk/fileadmin/Rapporter/2023/DMIRep23-08.pdf). Data was sampled at a three-hour resolution, with monthly surface air temperature anomalies for 2018-2023 calculated relative to the 1992-2018 mean. Note that daily averages were only included if there were > 4 observations, and monthly averages were only included if there were > 25 daily mean observations.
+
+## Surface Runoff 
+Daily estimates of surface runoff across the main hydrological basin of Jakobshavn Isbræ were extracted from Mankoff (2020), provided on the GEUS dataverse (https://doi.org/10.22008/promice/data/ice_discharge/d/v02). These estimates were derived from two regional climate models (RCMs): (i) Modèle Atmosphérique Régional (MAR), and (ii) Regional Atmospheric Climate Model (RACMO). 
