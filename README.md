@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12533844.svg)](https://doi.org/10.5281/zenodo.12533844)
+
 # Jakobshavn Isbrae 
 This repository is associated with the manuscript ‘A reassessment of the role of atmospheric and oceanic forcing on ice dynamics at Jakobshavn Isbræ (Sermeq Kujalleq), Ilulissat Icefjord’, submitted to the Journal of Geophysical Research: Earth Surface. 
 
