@@ -28,5 +28,6 @@ As part of NASA’s Oceans Melting Greenland (OMG) project, four AXCTD probes we
 ## Air Temperature 
 Observations of daily surface air temperature were downloaded from the Ilulissat Mittarfik meteorological station (04221; https://www.dmi.dk/fileadmin/Rapporter/2023/DMIRep23-08.pdf). Data was sampled at a three-hour resolution, with monthly surface air temperature anomalies for 2018-2023 calculated relative to the 1992-2018 mean. Note that daily averages were only included if there were > 4 observations, and monthly averages were only included if there were > 25 daily mean observations.
 
+
 ## Surface Runoff 
 Daily estimates of surface runoff across the main hydrological basin of Jakobshavn Isbræ were extracted from Mankoff (2020), provided on the GEUS dataverse (https://doi.org/10.22008/promice/data/ice_discharge/d/v02). These estimates were derived from two regional climate models (RCMs): (i) Modèle Atmosphérique Régional (MAR), and (ii) Regional Atmospheric Climate Model (RACMO). 
