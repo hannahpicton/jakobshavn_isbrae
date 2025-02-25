@@ -5,6 +5,9 @@ This repository is associated with the manuscript ‘A reassessment of the role 
 
 In this study, we use remotely-sensed datasets to extend observations of ice dynamics at Jakobshavn Isbræ between 2018 and 2023. We provide timeseries of key glaciological parameters, analysing variability in ice surface velocity, ice surface elevation, ice discharge, terminus position, and rigid mélange extent. We then use a combination of hydrographic data obtained from conductivity-temperature-depth (CTD) sensors, surface air temperature data measured at a local weather station, and modelled estimates of surface runoff, to explore the potential influence of oceanic and atmospheric forcing on ice dynamics at Jakobshavn Isbræ over this most recent five-year period. 
 
+![figure_1](https://github.com/user-attachments/assets/242a663b-887d-4115-afaa-3f3fe032a215)
+
+
 ## Ice Surface Velocity 
 A timeseries of ice velocity was extracted across Jakobshavn Isbrae using NASA’s MEaSUREs Inter-mission Time Series of Land Ice Velocity and Elevation (ITS_LIVE) product (https://its-live.jpl.nasa.gov/), accessed using the cloud-optimized Zarr datacubes. All available 6-day and 12-day image-pair velocities were downloaded between 01/01/2018 and 31/12/2022, before being sampled at 5km intervals along the centreline of Jakobshavn Isbræ (T, T5, T10, T15, T20, T30).  
 
