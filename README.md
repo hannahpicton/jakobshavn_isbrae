@@ -3,6 +3,8 @@
 # Jakobshavn Isbrae 
 This repository is associated with the manuscript ‘A reassessment of the role of atmospheric and oceanic forcing on ice dynamics at Jakobshavn Isbræ (Sermeq Kujalleq), Ilulissat Icefjord’, submitted to the Journal of Geophysical Research: Earth Surface. 
 
+https://doi.org/10.1029/2024JF008104 
+
 In this study, we use remotely-sensed datasets to extend observations of ice dynamics at Jakobshavn Isbræ between 2018 and 2023. We provide timeseries of key glaciological parameters, analysing variability in ice surface velocity, ice surface elevation, ice discharge, terminus position, and rigid mélange extent. We then use a combination of hydrographic data obtained from conductivity-temperature-depth (CTD) sensors, surface air temperature data measured at a local weather station, and modelled estimates of surface runoff, to explore the potential influence of oceanic and atmospheric forcing on ice dynamics at Jakobshavn Isbræ over this most recent five-year period. 
 
 ![figure_1](https://github.com/user-attachments/assets/242a663b-887d-4115-afaa-3f3fe032a215)
